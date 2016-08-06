@@ -1,0 +1,31 @@
+_repo: At-Sunwich-Port-Part-5.Contents--Chapters-21-25_10875
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jacobs, W. W. (William Wymark)
+    alias: Jacobs, William Wymark
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '1865'
+    url: http://www.gutenberg.org/2009/agents/1865
+    wikipedia: http://en.wikipedia.org/wiki/W._W._Jacobs
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Betrothal -- Fiction'
+- !lcsh 'Family -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- GITenberg
+title: 'At Sunwich Port, Part 5.
+
+  Contents: Chapters 21-25'
+url: http://www.gutenberg.org/ebooks/10875
